@@ -1,34 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "Preview"
-    },
-    {
-      "description": "⚙️ GitHub Custom Fonts ⚙️ GitHub Blog Dark ⚙️ GitHub Code Wrap ⚙️ GitHub Commit Limit ⚙️ GitHub Community Dark - Now part of Discourse Dark ⚙️ GitHub Compact Feed ⚙️ GitHub Dark Calendar Color Customizer ⚙️ GitHub Dark Diff Color Customizer ⚙️ GitHub Dark Element Borders ⚙️ GitHub Dark IMG Background Color ⚙️ GitHub Feed Icons ⚙️ GitHub FixedHeader ⚙️ GitHub Selected Tab Color ⚙️ GitHub Sticky Sidebar ⚙️ GitHub Tab Size ⚙️ GitHub Custom Border Radii ⚙️ GitHub Dark Custom Blame usercss ⚙️ GitHub Upstream BugFixes usercss ⚙️ Overlay Scrollbars",
-      "items": [],
-      "title": "Additional Userstyles"
-    },
-    {
-      "description": "💾 Gitako 💾 GitHub Notifications Dropdown 💾 GitHub Polls 💾 Lovely forks 💾 Notifications Preview for GitHub 💾 OctoLinker 💾 Octotree 💾 Refined GitHub 💾 Sourcegraph Browser Extension 💾 ZenHub",
-      "items": [],
-      "title": "Supported GitHub Extensions"
-    },
-    {
-      "description": "Contributing e.g. unstyled items, sources, extensions, etc. to name a few.\nSee and edit the respective files in /src/gen/ then run to rebuild and reinstall the style, then test your fixes and send a pull request.",
-      "items": [],
-      "title": "Auto-generated CSS"
-    },
-    {
-      "description": "Manual overrides to e.g. generated content or inline HTML styles to name a few.\nSee and edit respective files in then run to rebuild and reinstall the style, then test your fixes and send a pull request.",
-      "items": [],
-      "title": "Manual override entries"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-19T01:56:31.212Z",
+    "last_updated": "2026-08-19T12:10:26.982Z",
     "original_repository": "StylishThemes/GitHub-Dark",
+    "original_repository_id": 1219740,
     "original_repository_sha": "a2cb61d4ada45a4ec6b18f39d154f3a6252a1d9b",
     "enhanced_repository": "enhansome/enhansome-GitHub-Dark",
     "enhanced_repository_description": null,
