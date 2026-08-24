@@ -1,7 +1,71 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "💾 Gitako",
+          "description": "💾 GitHub Notifications Dropdown 💾 GitHub Polls 💾 Lovely forks 💾 Notifications Preview for GitHub 💾 OctoLinker 💾 Octotree 💾 Refined GitHub 💾 Sourcegraph Browser Extension 💾 ZenHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 112069171,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T19:13:58Z",
+            "owner": "EnixCoda",
+            "repo": "Gitako",
+            "stars": 2598
+          }
+        }
+      ],
+      "title": "Supported GitHub Extensions"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Support for Codemirror",
+          "description": "and Jupyter notebook syntax highlighting themes as listed above.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20230767,
+            "language": null,
+            "last_commit": "2015-09-17T19:13:31Z",
+            "owner": "sujitpal",
+            "repo": "statlearning-notebooks",
+            "stars": 376
+          }
+        }
+      ],
+      "title": "Available Syntax Highlighting Themes (Demo)"
+    },
+    {
+      "description": "If you would like to contribute to this repository, please...\nAny custom changes should be done in the files in the directory. Do not edit the files in the project root, these are generated.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fork",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1219740,
+            "language": "CSS",
+            "last_commit": "2026-08-21T20:19:20Z",
+            "owner": "StylishThemes",
+            "repo": "GitHub-Dark",
+            "stars": 9967
+          }
+        }
+      ],
+      "title": "Contributions and Development"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T02:00:56.085Z",
+    "last_updated": "2026-08-24T13:52:24.121Z",
     "original_repository": "StylishThemes/GitHub-Dark",
     "original_repository_id": 1219740,
     "original_repository_sha": "a57904a6a889b55533e8c94f08ce294434919f7f",
