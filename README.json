@@ -12,7 +12,7 @@
             "archived": false,
             "id": 112069171,
             "language": "TypeScript",
-            "last_commit": "2026-08-05T19:13:58Z",
+            "last_commit": "2026-08-26T14:12:23Z",
             "owner": "EnixCoda",
             "repo": "Gitako",
             "stars": 2598
@@ -54,7 +54,7 @@
             "archived": false,
             "id": 1219740,
             "language": "CSS",
-            "last_commit": "2026-08-21T20:19:20Z",
+            "last_commit": "2026-08-26T22:40:07Z",
             "owner": "StylishThemes",
             "repo": "GitHub-Dark",
             "stars": 9967
@@ -65,10 +65,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:02:13.392Z",
+    "last_updated": "2026-08-27T09:59:33.399Z",
     "original_repository": "StylishThemes/GitHub-Dark",
     "original_repository_id": 1219740,
-    "original_repository_sha": "a57904a6a889b55533e8c94f08ce294434919f7f",
+    "original_repository_sha": "f2e958d871915a67e2f968f2ddbbc4bf545cba38",
     "enhanced_repository": "enhansome/enhansome-GitHub-Dark",
     "enhanced_repository_description": null,
     "title": "Awesome TOC with stars"
