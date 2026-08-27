@@ -73,7 +73,7 @@
 💾 [Notifications Preview for GitHub](https://github.com/tanmayrajani/notifications-preview-github) ⭐ 150 | 🐛 5 | 🌐 JavaScript | 📅 2026-02-07<br>
 💾 [OctoLinker](https://github.com/OctoLinker/OctoLinker) ⭐ 5,385 | 🐛 62 | 🌐 HTML | 📅 2023-10-02<br>
 💾 [Octotree](https://github.com/buunguyen/octotree/#octotree) ⭐ 23,238 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06<br>
-💾 [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 31,993 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-27<br>
+💾 [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 31,995 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-27<br>
 💾 [Sourcegraph Browser Extension](https://docs.sourcegraph.com/integration/browser_extension)<br>
 💾 [ZenHub](https://www.zenhub.com/)<br>
 

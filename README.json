@@ -65,9 +65,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T09:59:33.399Z",
-    "original_repository": "StylishThemes/GitHub-Dark",
-    "original_repository_id": 1219740,
+    "last_updated": "2026-08-27T11:40:13.137Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1219740,
+      "language": "CSS",
+      "last_commit": "2026-08-26T22:40:07Z",
+      "owner": "StylishThemes",
+      "repo": "GitHub-Dark",
+      "stars": 9967
+    },
     "original_repository_sha": "f2e958d871915a67e2f968f2ddbbc4bf545cba38",
     "enhanced_repository": "enhansome/enhansome-GitHub-Dark",
     "enhanced_repository_description": null,
