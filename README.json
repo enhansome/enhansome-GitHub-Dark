@@ -16,7 +16,8 @@
             "owner": "EnixCoda",
             "repo": "Gitako",
             "stars": 2598
-          }
+          },
+          "first_seen": "2026-08-28T11:31:35.642Z"
         }
       ],
       "title": "Supported GitHub Extensions"
@@ -37,7 +38,8 @@
             "owner": "sujitpal",
             "repo": "statlearning-notebooks",
             "stars": 376
-          }
+          },
+          "first_seen": "2026-08-28T11:31:35.642Z"
         }
       ],
       "title": "Available Syntax Highlighting Themes (Demo)"
@@ -54,28 +56,29 @@
             "archived": false,
             "id": 1219740,
             "language": "CSS",
-            "last_commit": "2026-08-26T22:40:07Z",
+            "last_commit": "2026-08-28T03:59:20Z",
             "owner": "StylishThemes",
             "repo": "GitHub-Dark",
             "stars": 9967
-          }
+          },
+          "first_seen": "2026-08-28T11:31:35.642Z"
         }
       ],
       "title": "Contributions and Development"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:40:13.137Z",
+    "last_updated": "2026-08-28T11:31:35.642Z",
     "original_repository_info": {
       "archived": false,
       "id": 1219740,
       "language": "CSS",
-      "last_commit": "2026-08-26T22:40:07Z",
+      "last_commit": "2026-08-28T03:59:20Z",
       "owner": "StylishThemes",
       "repo": "GitHub-Dark",
       "stars": 9967
     },
-    "original_repository_sha": "f2e958d871915a67e2f968f2ddbbc4bf545cba38",
+    "original_repository_sha": "d6487cc9fc599287e4bd76ded4566c3832c5c331",
     "enhanced_repository": "enhansome/enhansome-GitHub-Dark",
     "enhanced_repository_description": null,
     "title": "Awesome TOC with stars"
