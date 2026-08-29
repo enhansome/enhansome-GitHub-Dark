@@ -71,9 +71,9 @@
 💾 [GitHub Polls](https://github.com/apex/gh-polls) ⭐ 1,759 | 🐛 23 | 🌐 Go | 📅 2019-09-05<br>
 💾 [Lovely forks](https://github.com/musically-ut/lovely-forks#lovely-forks) ⭐ 670 | 🐛 16 | 🌐 JavaScript | 📅 2026-06-22<br>
 💾 [Notifications Preview for GitHub](https://github.com/tanmayrajani/notifications-preview-github) ⭐ 150 | 🐛 5 | 🌐 JavaScript | 📅 2026-02-07<br>
-💾 [OctoLinker](https://github.com/OctoLinker/OctoLinker) ⭐ 5,385 | 🐛 62 | 🌐 HTML | 📅 2023-10-02<br>
+💾 [OctoLinker](https://github.com/OctoLinker/OctoLinker) ⭐ 5,384 | 🐛 62 | 🌐 HTML | 📅 2023-10-02<br>
 💾 [Octotree](https://github.com/buunguyen/octotree/#octotree) ⭐ 23,240 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06<br>
-💾 [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 32,000 | 🐛 75 | 🌐 TypeScript | 📅 2026-08-27<br>
+💾 [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 32,002 | 🐛 76 | 🌐 TypeScript | 📅 2026-08-27<br>
 💾 [Sourcegraph Browser Extension](https://docs.sourcegraph.com/integration/browser_extension)<br>
 💾 [ZenHub](https://www.zenhub.com/)<br>
 
@@ -120,7 +120,7 @@
 
 If you would like to contribute to this repository, please...
 
-1. [![fork](https://user-images.githubusercontent.com/136959/42383736-c4cb0db8-80fd-11e8-91ca-12bae108bccc.png) Fork](https://github.com/StylishThemes/GitHub-Dark/fork) ⭐ 9,967 | 🐛 54 | 🌐 CSS | 📅 2026-08-28
+1. [![fork](https://user-images.githubusercontent.com/136959/42383736-c4cb0db8-80fd-11e8-91ca-12bae108bccc.png) Fork](https://github.com/StylishThemes/GitHub-Dark/fork) ⭐ 9,969 | 🐛 54 | 🌐 CSS | 📅 2026-08-28
 2. Make sure you have these installed:
 
 * [`node`](https://nodejs.org): version 14 or greater with npm
@@ -172,4 +172,4 @@ Thanks to all our [contributors](./AUTHORS) so far! And thanks for the shoutout 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

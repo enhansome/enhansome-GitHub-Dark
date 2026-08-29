@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐙 File tree extension for GitHub on Chrome & Firefox & Edge",
+            "homepage": "https://chrome.google.com/webstore/detail/gitako/giljefjcheohhamkjphiebfjnlphnokk",
             "id": 112069171,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T14:12:23Z",
+            "open_issues": 16,
             "owner": "EnixCoda",
             "repo": "Gitako",
-            "stars": 2598
+            "stars": 2598,
+            "topics": [
+              "chrome-extension",
+              "edge-extension",
+              "firefox-addon",
+              "gitee",
+              "github"
+            ]
           },
           "first_seen": "2026-08-28T11:31:35.642Z"
         }
@@ -32,12 +43,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python notebooks for exercises covered in Stanford statlearning class (where exercises were in R).",
+            "homepage": null,
             "id": 20230767,
             "language": null,
+            "license": "MIT",
             "last_commit": "2015-09-17T19:13:31Z",
+            "open_issues": 1,
             "owner": "sujitpal",
             "repo": "statlearning-notebooks",
-            "stars": 376
+            "stars": 376,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:35.642Z"
         }
@@ -54,12 +70,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":octocat: Dark GitHub style",
+            "homepage": "https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/github-dark.user.css",
             "id": 1219740,
             "language": "CSS",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-28T03:59:20Z",
+            "open_issues": 54,
             "owner": "StylishThemes",
             "repo": "GitHub-Dark",
-            "stars": 9967
+            "stars": 9969,
+            "topics": [
+              "awesome",
+              "css",
+              "dark",
+              "dark-theme",
+              "github",
+              "theme",
+              "usercss",
+              "userstyle"
+            ]
           },
           "first_seen": "2026-08-28T11:31:35.642Z"
         }
@@ -68,15 +98,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:31:35.642Z",
+    "last_updated": "2026-08-29T04:21:51.658Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":octocat: Dark GitHub style",
+      "homepage": "https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/github-dark.user.css",
       "id": 1219740,
       "language": "CSS",
+      "license": "BSD-2-Clause",
       "last_commit": "2026-08-28T03:59:20Z",
+      "open_issues": 54,
       "owner": "StylishThemes",
       "repo": "GitHub-Dark",
-      "stars": 9967
+      "stars": 9969,
+      "topics": [
+        "awesome",
+        "css",
+        "dark",
+        "dark-theme",
+        "github",
+        "theme",
+        "usercss",
+        "userstyle"
+      ]
     },
     "original_repository_sha": "d6487cc9fc599287e4bd76ded4566c3832c5c331",
     "enhanced_repository": "enhansome/enhansome-GitHub-Dark",
