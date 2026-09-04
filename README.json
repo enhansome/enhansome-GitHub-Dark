@@ -15,8 +15,8 @@
             "id": 112069171,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T23:17:57Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-03T12:17:30Z",
+            "open_issues": 19,
             "owner": "EnixCoda",
             "repo": "Gitako",
             "stars": 2599,
@@ -52,7 +52,7 @@
             "open_issues": 1,
             "owner": "sujitpal",
             "repo": "statlearning-notebooks",
-            "stars": 377,
+            "stars": 378,
             "topics": []
           },
           "first_seen": "2026-08-28T11:31:35.642Z"
@@ -75,11 +75,11 @@
             "id": 1219740,
             "language": "CSS",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-03T02:37:16Z",
+            "last_commit": "2026-09-03T22:12:10Z",
             "open_issues": 54,
             "owner": "StylishThemes",
             "repo": "GitHub-Dark",
-            "stars": 9971,
+            "stars": 9969,
             "topics": [
               "awesome",
               "css",
@@ -98,7 +98,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T04:42:42.477Z",
+    "last_updated": "2026-09-04T04:43:41.643Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: Dark GitHub style",
@@ -106,11 +106,11 @@
       "id": 1219740,
       "language": "CSS",
       "license": "BSD-2-Clause",
-      "last_commit": "2026-09-03T02:37:16Z",
+      "last_commit": "2026-09-03T22:12:10Z",
       "open_issues": 54,
       "owner": "StylishThemes",
       "repo": "GitHub-Dark",
-      "stars": 9971,
+      "stars": 9969,
       "topics": [
         "awesome",
         "css",
@@ -122,7 +122,7 @@
         "userstyle"
       ]
     },
-    "original_repository_sha": "dc546b7eb0263086f59dae203159545288559005",
+    "original_repository_sha": "c8c00c72c9765c05304185ce2713033bae4ca251",
     "enhanced_repository": "enhansome/enhansome-GitHub-Dark",
     "enhanced_repository_description": null,
     "title": "Awesome TOC with stars"
