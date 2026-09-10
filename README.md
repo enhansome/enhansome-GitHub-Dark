@@ -66,14 +66,14 @@
 
 ## Supported GitHub Extensions
 
-💾 [Gitako](https://github.com/EnixCoda/Gitako) ⭐ 2,599 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-05<br>
+💾 [Gitako](https://github.com/EnixCoda/Gitako) ⭐ 2,598 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-05<br>
 💾 [GitHub Notifications Dropdown](https://openuserjs.org/scripts/joeytwiddle/Github_Notifications_Dropdown)<br>
 💾 [GitHub Polls](https://github.com/apex/gh-polls) ⭐ 1,759 | 🐛 23 | 🌐 Go | 📅 2019-09-05<br>
 💾 [Lovely forks](https://github.com/musically-ut/lovely-forks#lovely-forks) ⭐ 672 | 🐛 16 | 🌐 JavaScript | 📅 2026-06-22<br>
 💾 [Notifications Preview for GitHub](https://github.com/tanmayrajani/notifications-preview-github) ⭐ 149 | 🐛 5 | 🌐 JavaScript | 📅 2026-02-07<br>
-💾 [OctoLinker](https://github.com/OctoLinker/OctoLinker) ⭐ 5,386 | 🐛 62 | 🌐 HTML | 📅 2023-10-02<br>
-💾 [Octotree](https://github.com/buunguyen/octotree/#octotree) ⭐ 23,243 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06<br>
-💾 [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 32,098 | 🐛 86 | 🌐 TypeScript | 📅 2026-09-06<br>
+💾 [OctoLinker](https://github.com/OctoLinker/OctoLinker) ⭐ 5,384 | 🐛 62 | 🌐 HTML | 📅 2023-10-02<br>
+💾 [Octotree](https://github.com/buunguyen/octotree/#octotree) ⭐ 23,244 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06<br>
+💾 [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 32,103 | 🐛 88 | 🌐 TypeScript | 📅 2026-09-09<br>
 💾 [Sourcegraph Browser Extension](https://docs.sourcegraph.com/integration/browser_extension)<br>
 💾 [ZenHub](https://www.zenhub.com/)<br>
 
@@ -172,4 +172,4 @@ Thanks to all our [contributors](./AUTHORS) so far! And thanks for the shoutout 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
