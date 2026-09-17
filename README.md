@@ -56,8 +56,8 @@
 ⚙️ [GitHub Dark IMG Background Color](https://raw.githubusercontent.com/StylishThemes/Feature-Override-Styles/master/github-dark-img-bg-clr.user.css)<br>
 ⚙️ [GitHub Feed Icons](https://github.com/StylishThemes/GitHub-Feed-Icons) ⭐ 19 | 🐛 2 | 🌐 CSS | 📅 2019-05-29<br>
 ⚙️ [GitHub FixedHeader](https://github.com/StylishThemes/GitHub-FixedHeader) ⭐ 64 | 🐛 3 | 🌐 CSS | 📅 2020-06-20<br>
-⚙️ [GitHub Selected Tab Color](https://github.com/StylishThemes/GitHub-Selected-Tab-Color) ⭐ 47 | 🐛 0 | 🌐 CSS | 📅 2022-11-11<br>
-⚙️ [GitHub Sticky Sidebar](https://github.com/StylishThemes/GitHub-Sticky-Sidebar) ⭐ 14 | 🐛 1 | 🌐 CSS | 📅 2020-04-23<br>
+⚙️ [GitHub Selected Tab Color](https://github.com/StylishThemes/GitHub-Selected-Tab-Color) ⭐ 46 | 🐛 0 | 🌐 CSS | 📅 2022-11-11<br>
+⚙️ [GitHub Sticky Sidebar](https://github.com/StylishThemes/GitHub-Sticky-Sidebar) ⭐ 13 | 🐛 1 | 🌐 CSS | 📅 2020-04-23<br>
 ⚙️ [GitHub Tab Size](https://github.com/StylishThemes/GitHub-tab-size) ⭐ 17 | 🐛 0 | 🌐 JavaScript | 📅 2020-01-22<br>
 ⚙️ [GitHub Custom Border Radii](https://github.com/StylishThemes/Feature-Override-Styles/blob/master/github-custom-border-radii.user.css) ⭐ 29 | 🐛 0 | 🌐 CSS | 📅 2025-08-07<br>
 ⚙️ [GitHub Dark Custom Blame usercss](https://raw.githubusercontent.com/StylishThemes/Feature-Override-Styles/master/github-dark-custom-blame.user.css)<br>
@@ -72,8 +72,8 @@
 💾 [Lovely forks](https://github.com/musically-ut/lovely-forks#lovely-forks) ⭐ 673 | 🐛 16 | 🌐 JavaScript | 📅 2026-06-22<br>
 💾 [Notifications Preview for GitHub](https://github.com/tanmayrajani/notifications-preview-github) ⭐ 149 | 🐛 5 | 🌐 JavaScript | 📅 2026-02-07<br>
 💾 [OctoLinker](https://github.com/OctoLinker/OctoLinker) ⭐ 5,384 | 🐛 62 | 🌐 HTML | 📅 2023-10-02<br>
-💾 [Octotree](https://github.com/buunguyen/octotree/#octotree) ⭐ 23,246 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06<br>
-💾 [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 32,170 | 🐛 79 | 🌐 TypeScript | 📅 2026-09-15<br>
+💾 [Octotree](https://github.com/buunguyen/octotree/#octotree) ⭐ 23,245 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06<br>
+💾 [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 32,173 | 🐛 82 | 🌐 TypeScript | 📅 2026-09-16<br>
 💾 [Sourcegraph Browser Extension](https://docs.sourcegraph.com/integration/browser_extension)<br>
 💾 [ZenHub](https://www.zenhub.com/)<br>
 
@@ -120,7 +120,7 @@
 
 If you would like to contribute to this repository, please...
 
-1. [![fork](https://user-images.githubusercontent.com/136959/42383736-c4cb0db8-80fd-11e8-91ca-12bae108bccc.png) Fork](https://github.com/StylishThemes/GitHub-Dark/fork) ⭐ 9,976 | 🐛 54 | 🌐 CSS | 📅 2026-09-15
+1. [![fork](https://user-images.githubusercontent.com/136959/42383736-c4cb0db8-80fd-11e8-91ca-12bae108bccc.png) Fork](https://github.com/StylishThemes/GitHub-Dark/fork) ⭐ 9,977 | 🐛 54 | 🌐 CSS | 📅 2026-09-17
 2. Make sure you have these installed:
 
 * [`node`](https://nodejs.org): version 14 or greater with npm
@@ -172,4 +172,4 @@ Thanks to all our [contributors](./AUTHORS) so far! And thanks for the shoutout 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
