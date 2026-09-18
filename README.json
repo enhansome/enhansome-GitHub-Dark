@@ -19,7 +19,7 @@
             "open_issues": 21,
             "owner": "EnixCoda",
             "repo": "Gitako",
-            "stars": 2598,
+            "stars": 2599,
             "topics": [
               "chrome-extension",
               "edge-extension",
@@ -79,7 +79,7 @@
             "open_issues": 54,
             "owner": "StylishThemes",
             "repo": "GitHub-Dark",
-            "stars": 9977,
+            "stars": 9976,
             "topics": [
               "awesome",
               "css",
@@ -98,7 +98,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T05:00:17.318Z",
+    "last_updated": "2026-09-18T04:53:35.302Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: Dark GitHub style",
@@ -110,7 +110,7 @@
       "open_issues": 54,
       "owner": "StylishThemes",
       "repo": "GitHub-Dark",
-      "stars": 9977,
+      "stars": 9976,
       "topics": [
         "awesome",
         "css",
