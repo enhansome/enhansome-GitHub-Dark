@@ -19,7 +19,7 @@
             "open_issues": 21,
             "owner": "EnixCoda",
             "repo": "Gitako",
-            "stars": 2599,
+            "stars": 2600,
             "topics": [
               "chrome-extension",
               "edge-extension",
@@ -98,7 +98,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T04:53:35.302Z",
+    "last_updated": "2026-09-19T04:45:26.292Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: Dark GitHub style",
