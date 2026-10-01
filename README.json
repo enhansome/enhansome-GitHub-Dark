@@ -75,7 +75,7 @@
             "id": 1219740,
             "language": "CSS",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-29T23:22:34Z",
+            "last_commit": "2026-09-30T23:24:01Z",
             "open_issues": 53,
             "owner": "StylishThemes",
             "repo": "GitHub-Dark",
@@ -98,7 +98,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T05:43:05.569Z",
+    "last_updated": "2026-10-01T06:08:49.420Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: Dark GitHub style",
@@ -106,7 +106,7 @@
       "id": 1219740,
       "language": "CSS",
       "license": "BSD-2-Clause",
-      "last_commit": "2026-09-29T23:22:34Z",
+      "last_commit": "2026-09-30T23:24:01Z",
       "open_issues": 53,
       "owner": "StylishThemes",
       "repo": "GitHub-Dark",
@@ -122,7 +122,7 @@
         "userstyle"
       ]
     },
-    "original_repository_sha": "1cd4a6b061ae20f7b49c3cfe89d340131651b719",
+    "original_repository_sha": "536441c64daf3270974a5ec746f993bb07b28eb5",
     "enhanced_repository": "enhansome/enhansome-GitHub-Dark",
     "enhanced_repository_description": null,
     "title": "Awesome TOC with stars"
