@@ -15,8 +15,8 @@
             "id": 112069171,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T05:00:04Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-01T07:19:15Z",
+            "open_issues": 22,
             "owner": "EnixCoda",
             "repo": "Gitako",
             "stars": 2603,
@@ -79,7 +79,7 @@
             "open_issues": 53,
             "owner": "StylishThemes",
             "repo": "GitHub-Dark",
-            "stars": 9985,
+            "stars": 9983,
             "topics": [
               "awesome",
               "css",
@@ -98,7 +98,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T06:08:49.420Z",
+    "last_updated": "2026-10-02T05:52:20.837Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: Dark GitHub style",
@@ -110,7 +110,7 @@
       "open_issues": 53,
       "owner": "StylishThemes",
       "repo": "GitHub-Dark",
-      "stars": 9985,
+      "stars": 9983,
       "topics": [
         "awesome",
         "css",
