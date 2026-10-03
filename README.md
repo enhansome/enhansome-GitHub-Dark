@@ -59,21 +59,21 @@
 ⚙️ [GitHub Selected Tab Color](https://github.com/StylishThemes/GitHub-Selected-Tab-Color) ⭐ 46 | 🐛 0 | 🌐 CSS | 📅 2022-11-11<br>
 ⚙️ [GitHub Sticky Sidebar](https://github.com/StylishThemes/GitHub-Sticky-Sidebar) ⭐ 13 | 🐛 1 | 🌐 CSS | 📅 2020-04-23<br>
 ⚙️ [GitHub Tab Size](https://github.com/StylishThemes/GitHub-tab-size) ⭐ 17 | 🐛 0 | 🌐 JavaScript | 📅 2020-01-22<br>
-⚙️ [GitHub Custom Border Radii](https://github.com/StylishThemes/Feature-Override-Styles/blob/master/github-custom-border-radii.user.css) ⭐ 29 | 🐛 0 | 🌐 CSS | 📅 2025-08-07<br>
+⚙️ [GitHub Custom Border Radii](https://github.com/StylishThemes/Feature-Override-Styles/blob/master/github-custom-border-radii.user.css) ⭐ 28 | 🐛 0 | 🌐 CSS | 📅 2025-08-07<br>
 ⚙️ [GitHub Dark Custom Blame usercss](https://raw.githubusercontent.com/StylishThemes/Feature-Override-Styles/master/github-dark-custom-blame.user.css)<br>
 ⚙️ [GitHub Upstream BugFixes usercss](https://github.com/StylishThemes/GitHub-Upstream-BugFixes/raw/master/github-upstream-bugfixes.user.css) ⭐ 2 | 🐛 0 | 🌐 Stylus | 📅 2022-07-10<br>
 ⚙️ [Overlay Scrollbars](https://github.com/StylishThemes/Overlay-Scrollbars) ⭐ 88 | 🐛 1 | 🌐 CSS | 📅 2021-03-04<br>
 
 ## Supported GitHub Extensions
 
-💾 [Gitako](https://github.com/EnixCoda/Gitako) ⭐ 2,603 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-01<br>
+💾 [Gitako](https://github.com/EnixCoda/Gitako) ⭐ 2,604 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-01<br>
 💾 [GitHub Notifications Dropdown](https://openuserjs.org/scripts/joeytwiddle/Github_Notifications_Dropdown)<br>
 💾 [GitHub Polls](https://github.com/apex/gh-polls) ⭐ 1,759 | 🐛 23 | 🌐 Go | 📅 2019-09-05<br>
 💾 [Lovely forks](https://github.com/musically-ut/lovely-forks#lovely-forks) ⭐ 674 | 🐛 18 | 🌐 JavaScript | 📅 2026-10-01<br>
 💾 [Notifications Preview for GitHub](https://github.com/tanmayrajani/notifications-preview-github) ⭐ 149 | 🐛 5 | 🌐 JavaScript | 📅 2026-02-07<br>
-💾 [OctoLinker](https://github.com/OctoLinker/OctoLinker) ⭐ 5,387 | 🐛 62 | 🌐 HTML | 📅 2023-10-02<br>
-💾 [Octotree](https://github.com/buunguyen/octotree/#octotree) ⭐ 23,265 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-06<br>
-💾 [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 32,248 | 🐛 77 | 🌐 TypeScript | 📅 2026-10-01<br>
+💾 [OctoLinker](https://github.com/OctoLinker/OctoLinker) ⭐ 5,388 | 🐛 62 | 🌐 HTML | 📅 2023-10-02<br>
+💾 [Octotree](https://github.com/buunguyen/octotree/#octotree) ⭐ 23,270 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-06<br>
+💾 [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 32,254 | 🐛 77 | 🌐 TypeScript | 📅 2026-10-01<br>
 💾 [Sourcegraph Browser Extension](https://docs.sourcegraph.com/integration/browser_extension)<br>
 💾 [ZenHub](https://www.zenhub.com/)<br>
 
@@ -120,7 +120,7 @@
 
 If you would like to contribute to this repository, please...
 
-1. [![fork](https://user-images.githubusercontent.com/136959/42383736-c4cb0db8-80fd-11e8-91ca-12bae108bccc.png) Fork](https://github.com/StylishThemes/GitHub-Dark/fork) ⭐ 9,983 | 🐛 53 | 🌐 CSS | 📅 2026-09-30
+1. [![fork](https://user-images.githubusercontent.com/136959/42383736-c4cb0db8-80fd-11e8-91ca-12bae108bccc.png) Fork](https://github.com/StylishThemes/GitHub-Dark/fork)
 2. Make sure you have these installed:
 
 * [`node`](https://nodejs.org): version 14 or greater with npm
@@ -172,4 +172,4 @@ Thanks to all our [contributors](./AUTHORS) so far! And thanks for the shoutout 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
