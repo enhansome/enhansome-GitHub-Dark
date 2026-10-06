@@ -72,8 +72,8 @@
 💾 [Lovely forks](https://github.com/musically-ut/lovely-forks#lovely-forks) ⭐ 673 | 🐛 18 | 🌐 JavaScript | 📅 2026-10-01<br>
 💾 [Notifications Preview for GitHub](https://github.com/tanmayrajani/notifications-preview-github) ⭐ 149 | 🐛 5 | 🌐 JavaScript | 📅 2026-02-07<br>
 💾 [OctoLinker](https://github.com/OctoLinker/OctoLinker) ⭐ 5,388 | 🐛 62 | 🌐 HTML | 📅 2023-10-02<br>
-💾 [Octotree](https://github.com/buunguyen/octotree/#octotree) ⭐ 23,276 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-06<br>
-💾 [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 32,267 | 🐛 78 | 🌐 TypeScript | 📅 2026-10-03<br>
+💾 [Octotree](https://github.com/buunguyen/octotree/#octotree) ⭐ 23,278 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-06<br>
+💾 [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 32,268 | 🐛 77 | 🌐 TypeScript | 📅 2026-10-06<br>
 💾 [Sourcegraph Browser Extension](https://docs.sourcegraph.com/integration/browser_extension)<br>
 💾 [ZenHub](https://www.zenhub.com/)<br>
 
