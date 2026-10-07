@@ -66,10 +66,10 @@
 
 ## Supported GitHub Extensions
 
-💾 [Gitako](https://github.com/EnixCoda/Gitako) ⭐ 2,603 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-01<br>
+💾 [Gitako](https://github.com/EnixCoda/Gitako) ⭐ 2,604 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-01<br>
 💾 [GitHub Notifications Dropdown](https://openuserjs.org/scripts/joeytwiddle/Github_Notifications_Dropdown)<br>
 💾 [GitHub Polls](https://github.com/apex/gh-polls) ⭐ 1,759 | 🐛 23 | 🌐 Go | 📅 2019-09-05<br>
-💾 [Lovely forks](https://github.com/musically-ut/lovely-forks#lovely-forks) ⭐ 673 | 🐛 18 | 🌐 JavaScript | 📅 2026-10-01<br>
+💾 [Lovely forks](https://github.com/musically-ut/lovely-forks#lovely-forks) ⭐ 673 | 🐛 16 | 🌐 JavaScript | 📅 2026-10-06<br>
 💾 [Notifications Preview for GitHub](https://github.com/tanmayrajani/notifications-preview-github) ⭐ 149 | 🐛 5 | 🌐 JavaScript | 📅 2026-02-07<br>
 💾 [OctoLinker](https://github.com/OctoLinker/OctoLinker) ⭐ 5,388 | 🐛 62 | 🌐 HTML | 📅 2023-10-02<br>
 💾 [Octotree](https://github.com/buunguyen/octotree/#octotree) ⭐ 23,278 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-06<br>
@@ -172,4 +172,4 @@ Thanks to all our [contributors](./AUTHORS) so far! And thanks for the shoutout 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
