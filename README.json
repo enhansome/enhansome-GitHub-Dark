@@ -62,7 +62,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T06:20:18.528Z",
+    "last_updated": "2026-10-10T06:02:33.987Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: Dark GitHub style",
@@ -70,11 +70,11 @@
       "id": 1219740,
       "language": "CSS",
       "license": "BSD-2-Clause",
-      "last_commit": "2026-10-09T04:11:14Z",
+      "last_commit": "2026-10-10T03:56:44Z",
       "open_issues": 53,
       "owner": "StylishThemes",
       "repo": "GitHub-Dark",
-      "stars": 9986,
+      "stars": 9985,
       "topics": [
         "awesome",
         "css",
@@ -86,7 +86,7 @@
         "userstyle"
       ]
     },
-    "original_repository_sha": "ab24a20677ccf4e5985f97ffee6651902e6f0df2",
+    "original_repository_sha": "7d3f3386f2e200632b70e2d8ea0ee4bc59787539",
     "enhanced_repository": "enhansome/enhansome-GitHub-Dark",
     "enhanced_repository_description": null,
     "title": "Awesome TOC with stars"
