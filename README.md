@@ -72,8 +72,8 @@
 💾 [Lovely forks](https://github.com/musically-ut/lovely-forks#lovely-forks) ⭐ 674 | 🐛 16 | 🌐 JavaScript | 📅 2026-10-06<br>
 💾 [Notifications Preview for GitHub](https://github.com/tanmayrajani/notifications-preview-github) ⭐ 149 | 🐛 5 | 🌐 JavaScript | 📅 2026-02-07<br>
 💾 [OctoLinker](https://github.com/OctoLinker/OctoLinker) ⭐ 5,389 | 🐛 62 | 🌐 HTML | 📅 2023-10-02<br>
-💾 [Octotree](https://github.com/buunguyen/octotree/#octotree) ⭐ 23,283 | 🐛 1 | 🌐 JavaScript | 📅 2024-06-06<br>
-💾 [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 32,314 | 🐛 88 | 🌐 TypeScript | 📅 2026-10-13<br>
+💾 [Octotree](https://github.com/buunguyen/octotree/#octotree) ⭐ 23,282 | 🐛 1 | 🌐 JavaScript | 📅 2024-06-06<br>
+💾 [Refined GitHub](https://github.com/sindresorhus/refined-github) ⭐ 32,321 | 🐛 110 | 🌐 TypeScript | 📅 2026-10-16<br>
 💾 [Sourcegraph Browser Extension](https://docs.sourcegraph.com/integration/browser_extension)<br>
 💾 [ZenHub](https://www.zenhub.com/)<br>
 
@@ -172,4 +172,4 @@ Thanks to all our [contributors](./AUTHORS) so far! And thanks for the shoutout 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
