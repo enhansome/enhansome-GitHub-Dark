@@ -15,7 +15,7 @@
             "id": 112069171,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T09:06:29Z",
+            "last_commit": "2026-10-19T18:08:49Z",
             "open_issues": 24,
             "owner": "EnixCoda",
             "repo": "Gitako",
@@ -62,7 +62,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T04:53:47.240Z",
+    "last_updated": "2026-10-20T05:01:11.886Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: Dark GitHub style",
@@ -70,11 +70,11 @@
       "id": 1219740,
       "language": "CSS",
       "license": "BSD-2-Clause",
-      "last_commit": "2026-10-17T02:39:46Z",
+      "last_commit": "2026-10-19T18:12:23Z",
       "open_issues": 53,
       "owner": "StylishThemes",
       "repo": "GitHub-Dark",
-      "stars": 9988,
+      "stars": 9989,
       "topics": [
         "awesome",
         "css",
@@ -86,7 +86,7 @@
         "userstyle"
       ]
     },
-    "original_repository_sha": "a89054cdef15a77909772a74aea806950341cec5",
+    "original_repository_sha": "1153095cd67ea4b0dee01f8327f98eb234d74f5b",
     "enhanced_repository": "enhansome/enhansome-GitHub-Dark",
     "enhanced_repository_description": null,
     "title": "Awesome TOC with stars"
