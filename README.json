@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "EnixCoda",
             "repo": "Gitako",
-            "stars": 2605,
+            "stars": 2606,
             "topics": [
               "chrome-extension",
               "edge-extension",
@@ -62,7 +62,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T05:00:42.043Z",
+    "last_updated": "2026-10-22T05:02:44.482Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: Dark GitHub style",
@@ -70,11 +70,11 @@
       "id": 1219740,
       "language": "CSS",
       "license": "BSD-2-Clause",
-      "last_commit": "2026-10-19T18:12:23Z",
+      "last_commit": "2026-10-21T22:59:10Z",
       "open_issues": 53,
       "owner": "StylishThemes",
       "repo": "GitHub-Dark",
-      "stars": 9989,
+      "stars": 9990,
       "topics": [
         "awesome",
         "css",
@@ -86,7 +86,7 @@
         "userstyle"
       ]
     },
-    "original_repository_sha": "1153095cd67ea4b0dee01f8327f98eb234d74f5b",
+    "original_repository_sha": "cab198b3aff6618bd5e29ff0b6f9fa9c94c06d6d",
     "enhanced_repository": "enhansome/enhansome-GitHub-Dark",
     "enhanced_repository_description": null,
     "title": "Awesome TOC with stars"
